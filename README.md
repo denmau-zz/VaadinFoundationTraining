@@ -10,3 +10,13 @@ in this project I aim to learn the following:
 - Data lists with Grid
 - Router API
 - Theming
+### Page 1
+<img src="/images/exercise1.png">
+
+### Page 2
+<img src="/images/exercise2.png">
+
+### Page 3
+<img src="/images/exercise3.png">
+<br/>
+<img src="/images/IDESnip.png">
